@@ -128,7 +128,7 @@
         "y" : -392.0
       },
       "properties" : {
-        "log-level" : "info"
+        "log-level" : "warning"
       },
       "propertyDescriptors" : {
         "log-message" : {
